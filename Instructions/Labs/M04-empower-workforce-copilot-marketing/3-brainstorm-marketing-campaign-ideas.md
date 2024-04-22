@@ -1,0 +1,43 @@
+# Realizar una lluvia de ideas para campañas de marketing utilizando Copilot en Loop
+---
+Microsoft Loop está diseñado para la colaboración moderna. Copilot en Loop lleva dicha colaboración un paso más allá. Puede usar Copilot para intercambiar ideas sobre nuevas estrategias de marketing, planear campañas y desarrollar contenido. Copilot en Loop puede ayudarle a generar ideas para entradas de blog, artículos y otros tipos de contenido. Puede escribir los temas y el estilo de contenido deseado y Copilot puede sugerir indicaciones para ayudarle a empezar. Con Copilot en Loop, puede reducir el tiempo de creación de contenido hasta un 50 %.
+
+Copilot en Loop también se puede usar en las herramientas de las redes sociales para generar publicaciones atractivas y programar contenido. Puede desarrollar una semana de publicaciones en las redes sociales para su marca y ahorrar hasta 3 horas semanales en la planificación de las redes sociales. Copilot en Loop también lo pueden usar los profesionales de marketing para el análisis de datos y la elaboración de informes. Puede introducir datos de mercado para su análisis y Copilot puede sugerir indicaciones para ayudarle a analizar las últimas tendencias de su sector. Puede integrar Copilot en Loop con plataformas de anuncios para ayudarle a crear y probar variaciones de copia de anuncios. Puede generar tres versiones de copia de anuncios para pruebas A/B y reducir significativamente el tiempo de creación de anuncios. También puede usar Copilot en Loop en CRM y herramientas de análisis de datos para ayudarle a analizar los datos de los clientes y crear roles. Puede desarrollar un rol de cliente detallado para el segmento de destino y mejorar su estrategia de marketing.
+
+En este ejercicio de entrenamiento, usará Copilot en Loop para generar ideas para una campaña de marketing de un nuevo producto.
+
+### Ejercicio
+
+En el ejercicio anterior, Tailspin Toys realizó un análisis de mercado del sector del juguete. Basándose en ese análisis, la empresa decidió introducir una nueva línea de juguetes de exterior. Como administrador de programas de marketing de Tailspin Toys, usted se encarga de crear campañas de marketing para esta nueva línea de juguetes. Decide que el primer paso es usar Copilot en Loop para ayudar a generar ideas para campañas de marketing destinadas a esta nueva línea de productos. Realice los pasos siguientes para generar ideas mediante Copilot en Loop:
+
+1.  En **Microsoft 365**, seleccione **Loop** si aparece en el panel de navegación izquierdo. Si no aparece allí, seleccione **Aplicaciones** y, en la página **Aplicaciones**, desplácese hacia abajo para buscar **Loop** y, a continuación, selecciónelo.
+2.  En **Microsoft Loop**, seleccione **Comenzar**.
+3.  En **Loop**, la pestaña **Áreas de trabajo** se muestra de forma predeterminada. Quiere crear una nueva área de trabajo para este proyecto, así que seleccione el icono **+** para crearla.
+4.  En la ventana **Crear una nueva área de trabajo**, escriba **Campaña de marketing de línea de juguetes de exterior** como nombre del área de trabajo y, a continuación, seleccione el botón **Continuar** o **Crear** que aparezca (según la versión de Loop).
+5.  En la ventana **Agregar archivos al área de trabajo** (según la versión de Loop, esta ventana puede decir **Modificador del área de trabajo**), seleccione **Crear área de trabajo**.
+6.  Ahora está en la primera página de la nueva área de trabajo. Actualmente, el nombre de la página es **Sin título**. Observe que la página (Sin título) también aparece en el panel de navegación izquierdo. En el cuerpo principal de la página, seleccione el campo **Sin título** y cambie el nombre de la página a **Ideas para campañas de juguetes de exterior**. Observe que el nombre de la página se actualiza automáticamente en el panel de navegación.
+7.  En el campo **Comience a escribir...**, escriba una barra diagonal **(/)**.
+8.  En el menú desplegable que aparece, en la sección **Copilot** en la parte superior del menú, seleccione **Redactar contenido de la página**.
+9.  En la ventana **Copilot** que aparece, observe la fila de botones que aparece debajo del campo de la indicación. Seleccione cada botón (**Crear**, **Lluvia de ideas**, **Plano técnico** y **Describir**). Al hacerlo, observe cómo se rellena previamente el campo de la indicación con un ejemplo del tipo de tarea con el que Copilot puede ayudar. Dado que este ejercicio tiene que ver con la lluvia de ideas, seleccione el botón **Lluvia de ideas**.
+10. Observe cómo Copilot rellena previamente el campo de la indicación con una sugerencia de lluvia de ideas. De hecho, seleccione el botón **Lluvia de ideas** varias veces. Observe cómo cada vez se sugiere una nueva indicación de lluvia de ideas. Copilot recorre siete ejemplos de lluvia de ideas diferentes y, a continuación, comienza de nuevo. El propósito de estos ejemplos es darle una idea de los tipos eclécticos de cosas con los que Copilot puede ayudarle para realizar una lluvia de ideas. Para este ejercicio, escriba el siguiente campo de indicación y seleccione el icono **Enviar**:
+    
+    **Genera 10 ideas para una campaña de marketing de una nueva línea de juguetes de exterior**.
+11. Revise la lista de ideas generada. En lugar de tener toda la información en un formulario de párrafo o lista, prefiere resumirla en una tabla. Además, quiere que Copilot proporcione detalles más específicos de cada idea. En el panel de **Copilot** que aparece, escriba la siguiente indicación en el campo **Reescribir con Copilot** y seleccione el icono **Enviar**:
+    
+    **Pinta bien. Sin embargo, vuelve a escribir el informe colocando la información en una tabla y proporciona detalles más específicos de cada idea**.
+12. Observe cómo Copilot ha cambiado el formato del informe. Ahora desea que Copilot agregue otra idea a la tabla titulada **Promociones de tiendas de supermercados**. Para ello, escriba la siguiente indicación:
+    
+    **Agrega una idea para promociones de tienda de supermercados**.
+13. Al pedirle a Copilot que agregue una nueva idea, puede que la agregue a una nueva tabla o al final de la tabla actual. En cualquier caso, después de una reflexión adicional, decide que promocionar juguetes de exterior en un supermercado es una mala idea y ya no quiere que se incluya en la lista. ¿Cómo puede deshacer lo que acaba de hacer?
+    
+    A la derecha de la tabla (ya sea la tabla original o una nueva que solo contiene las **promociones de supermercado**), observe que Copilot realiza un seguimiento de cada indicación. Las indicaciones se muestran desde la más reciente hasta la primera, en orden secuencial. Más importante aún, observe que cada indicación incluye un icono de **Deshacer**. Si no está satisfecho con los resultados de una indicación, puede deshacerla para volver a la versión del borrador anterior a dicha indicación. Puesto que ha decidido que ya no desea incluir **Promociones de tiendas de supermercados** en la tabla, seleccione el icono **Deshacer** de dicha indicación.
+14. Después de seleccionar el icono **Deshacer**, observe que Copilot elimina la indicación y le devuelve al borrador que sigue la segunda indicación que puso las ideas en una tabla. En este momento, está listo para que Copilot ordene las ideas de mejor a peor. Escriba la siguiente indicación para ordenar las ideas:
+    
+    **Ordena las ideas de la tabla de más a menos eficaces**.
+    
+    > [!NOTE]
+    > Busque el icono **Ordenar** (con las flechas para subir y bajar) que aparece en la bandeja de iconos situada encima de la lista de ideas. Esta opción simplemente ordena las ideas en orden alfabético. Puede ordenar en función del nombre de cada **idea** o la primera palabra de cada campo **Detalles**. Sin embargo, no se basa en la eficacia estimada de las ideas, que es lo que desea y lo que solicitó en la indicación.
+15. Después de revisar las ideas ordenadas, decide realizar un cambio final. Quiere que Copilot reemplace la idea menos efectiva por un evento de campaña titulado **Promociones estacionales**. Cree que encaja bien con una nueva línea de juguetes que se centra en productos de exterior. Para ello, escriba la siguiente indicación:
+    
+    **Reemplaza la idea final de la tabla por Promociones estacionales**.
+16. Ahora está satisfecho con la lista de ideas, que puede presentar al equipo de marketing más tarde. Cuando sea el momento de presentar la lista de ideas de campaña de marketing para la que generó ideas con la ayuda de Copilot en Loop, puede acceder al área de trabajo **Ideas para campañas de juguetes de exterior** que Loop guardó automáticamente.
