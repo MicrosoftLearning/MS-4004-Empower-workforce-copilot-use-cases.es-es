@@ -1,0 +1,49 @@
+# Comparar los resultados de informes con Copilot en Word
+---
+Una de las cosas populares de Copilot para Microsoft 365 es que puede usar sus diversos copilotos para acceder a los datos públicos en la web. No se limita solo a Microsoft Copilot (chat de Bing), que es Copilot integrado en el explorador Bing. Pero aunque diferentes copilotos pueden acceder a la web, el nivel de detalle que proporciona cada copiloto puede diferir. Por ejemplo, si formula una pregunta sobre un sistema de calefacción por agua caliente frente a uno por aire caliente en Microsoft Copilot, los resultados son mucho más detallados que si formula la misma pregunta en Microsoft Loop.
+
+Copilot en Word proporciona dos medios diferentes para acceder a datos web públicos:
+
+ -  Puede pedirle a Copilot que redacte un informe sobre un tema determinado; por ejemplo, cuál es la diferencia entre un sistema de calefacción por agua caliente y por aire caliente. Cuando se le pide a Copilot que escriba un informe basado en este tipo de pregunta, normalmente crea contenido detallado y exhaustivo.
+ -  Puede hacer la misma pregunta en el panel de Copilot. En este escenario, Copilot suele proporcionar una respuesta más breve y resumida a esa misma pregunta. Esta característica está diseñada para complementar los documentos existentes si necesita acceder a los datos públicos de la web al hacerlo.
+
+En este ejercicio, examinará estas dos opciones. El propósito de este ejercicio es mostrar cómo Copilot en Word proporciona un nivel de respuesta diferente en función de la modalidad que use, ya sea en el panel de Copilot o al crear un nuevo documento. Esta diferencia no implica que un método sea mejor que el otro. Más bien, cada modalidad de Copilot tiene su propia función. El que decida usar debe depender de lo que necesite para elaborar un informe. Por ejemplo, cuando se usa Copilot para crear un nuevo informe, es probable que necesite información más detallada. Sin embargo, si usa Copilot para generar contenido que puede insertar en un documento existente, probablemente querrá fragmentos de información más pequeños y resumidos.
+
+### Ejercicio
+
+Como Operations Manager de Adatum Corporation, ha descubierto que el actual sistema de calderas de agua caliente que calienta el edificio de oficinas de la empresa, de 50 años de antigüedad, necesita una reparación importante, si no la sustitución total. Cree que esta situación puede ser el momento oportuno para convertir su sistema de calefacción del sistema existente a un sistema de calefacción por aire caliente más eficiente energéticamente. Sin embargo, no está familiarizado con las diferencias entre los dos tipos de sistemas de calefacción. Por lo tanto, quiere investigar la situación y crear un informe para presentar a la administración.
+
+Como quiere crear un informe, piensa en el uso de Microsoft 365 Word. Ha oído que Copilot en Word puede generar informes automáticamente, pero aún no lo ha usado. Por lo tanto, no está seguro del tipo de informe que proporciona. Quiere aprovechar esta oportunidad para no solo crear el informe, sino también investigar las características de informes de Copilot. Así que este es el plan:
+
+ -  Anteriormente ha identificado varias cuestiones que desea que Copilot investigue en relación con los sistemas de calefacción por caldera de agua caliente frente a los sistemas de calefacción por aire caliente.
+ -  Tiene previsto que Copilot cree un informe que abarque todas esas preguntas.
+ -  A continuación, planea hacer a Copilot cada una de esas preguntas individualmente para poder ver cada respuesta.
+ -  A continuación, puede comparar el informe que Copilot crea frente a las respuestas individuales que genera para cada pregunta. En este último escenario, puede copiar y pegar cada respuesta en un documento para crear su propio informe si lo desea, o para complementar un documento existente.
+
+1.  Si tiene una pestaña de Microsoft 365 abierta en su explorador de Microsoft Edge, selecciónela ahora; de lo contrario, abra una nueva pestaña y escriba la siguiente URL: **https://www.office.com**
+2.  Teniendo en cuenta su plan, decide usar primero Copilot en Word para crear un informe que aborde todas sus preguntas. En **Microsoft 365**, abra **Microsoft Word**, y después abra un documento en blanco.
+3.  En la ventana **Borrador con Copiloto** que aparece en la parte superior del documento en blanco, escriba la siguiente indicación y seleccione el botón **Generar**:
+    
+    **Soy el Operations Manager de Adatum Corporation. Estamos pensando en la posibilidad de sustituir el actual sistema de caldera de nuestro edificio por un sistema de calefacción por aire caliente. Redacte un informe en el que describa qué tipo de sistemas de caldera se usan en la mayoría de los edificios comerciales e incluya las consideraciones que debo tener en cuenta para cambiar del sistema de caldera existente a un sistema por aire caliente, el coste medio de la transición de un sistema de caldera por agua caliente a un sistema por aire caliente en un edificio comercial de dos plantas construido en la década de los 70, si el cambio de un sistema de caldera de agua caliente a un sistema de aire caliente tendrá algún efecto en nuestro sistema de aire acondicionado actual y las tasas medias de defectos de los sistemas de caldera de agua caliente frente a los sistemas de aire caliente.**
+4.  Revise el informe generado por Copilot. Tenga en cuenta el nivel de detalle en cada área de interés. Como quiere guardar este documento para el próximo ejercicio de Casos de Uso, seleccione el botón **Conservar** en la bandeja de Copilot y luego guarde el documento.
+    
+    > [!IMPORTANT]
+    > Asegúrese de guardar el informe ya que lo usará en el siguiente ejercicio de casos de uso.
+5.  La solicitud que escribió para crear el informe incluía cinco solicitudes. Ahora quiere preguntar a Copilot cada una de esas cinco preguntas individualmente. Seleccione **Copilot** en la cinta de opciones de Word, que abre el panel de **Copilot**.
+6.  En el panel **Copilot**, en el campo de solicitud situado en la parte inferior del panel, escriba la siguiente pregunta y, a continuación, seleccione la flecha **Enviar**:
+    
+    **¿Qué tipo de calderas usan la mayoría de los edificios como parte de sus sistemas de calefacción**?
+7.  Revise la respuesta. Aunque puede seleccionar la opción **Copiar** si desea pegar la respuesta en el documento, para este entrenamiento solo va a seleccionar más mensajes para ver las respuestas que recibe. Escriba mensajes independientes para cada una de las cuatro preguntas restantes:
+     -  **¿Qué consideraciones debo tener en cuenta para cambiar de un sistema de caldera de agua caliente existente a un sistema por aire caliente en un edificio comercial? **
+     -  **¿Cuál es un costo medio para la transición de un sistema de agua caliente a un sistema de aire caliente en un edificio comercial de dos pisos construido en los años 70?**
+     -  **si cambiamos de un sistema de agua caliente a un sistema de aire caliente, ¿afectará a nuestro sistema de aire acondicionado actual?**
+     -  **¿Cuáles son las tasas medias de defectos de los sistemas por agua caliente frente a los sistemas por aire caliente?**
+8.  Observe cómo Copilot ha respondido a cada una de sus preguntas, pero no ha insertado ninguna de las respuestas en el documento actual. Aunque se puede copiar y pegar cada respuesta en el documento, parece evidente que es más eficaz que Copilot cree el informe.
+9.  Sin embargo, ¿cómo se compara el nivel de información de cada método de información? Compare el nivel de información proporcionado cuando Copilot en Word creó un informe frente a las respuestas que proporcionó cuando usted formuló las preguntas individualmente en el panel de Copilot. ¿Qué ha observado? Cuando se le pide a Copilot que cree un informe, suele proporcionar respuestas más completas que organiza en un informe de aspecto atractivo. Por el contrario, cuando se le pide a Copilot que responda a las preguntas individualmente en el panel de Copilot, no devuelve el nivel de detalle del informe, aunque sí permite copiar y pegar las respuestas en un documento. Sin embargo, es posible que tenga que volver a formatear las respuestas insertadas para eliminar cualquier problema de formato.
+
+Al principio de este ejercicio hemos dicho que cada método tiene su propia función. Esperamos que este ejercicio lo demuestre:
+
+ -  Cuando se trabaja en modo borrador y se le pide a Copilot que cree un informe, solo se accede a la web pública una vez, y es para responder a la solicitud inicial de borrador. Por este motivo, incluimos todas las preguntas en el mensaje inicial. Una vez que Copilot genera el informe, solo puede pedirle que modifique el informe según el contenido existente en él. No se puede pedir que vuelva a acceder a la web para obtener más contenido.
+ -  Sin embargo, si abre un documento, puede usar el panel de Copilot para formular más preguntas relacionadas con el documento. Esta característica está diseñada para complementar el contenido de un documento existente. Aunque Copilot no inserta automáticamente las respuestas en el documento, puede copiarlas y pegarlas manualmente si lo desea. Esta característica le permite seguir accediendo a datos web públicos si necesita hacerlo para actualizar el documento. Sin embargo, como ha visto en este ejercicio, las respuestas suelen resumirse y no son tan detalladas como la información proporcionada por Copilot cuando creó el informe.
+    
+    Esta característica se usa normalmente para complementar un documento existente, en el que desea insertar contenido que cree que puede faltar. Si va a complementar un documento existente con contenido web nuevo, también puede considerar el uso de Microsoft Copilot (chat de Bing) para responder a sus preguntas si desea información más detallada que la información resumida que proporciona Copilot en Word.
