@@ -45,6 +45,5 @@ Realice los siguientes pasos para generar su discurso usando Copilot en Word:
 14. Por curiosidad, cambie el estilo de escritura a **Casual**. Tenga en cuenta si la **puntuación del editor** cambia. Si alguna categoría muestra un número, revise la categoría y vea lo que marcó el Editor. Quiere mantener el estilo de escritura en Profesional, así que seleccione **Omitir** para omitir los cambios sugeridos. Revise todos los cambios sugeridos para ver las diferencias que se marcaron entre los estilos Profesional y Casual.
 15. Guarde el archivo en su cuenta de OneDrive con el siguiente nombre de archivo: **Fabrikam 2023 Financial presentation.docx**. En el ejercicio siguiente se usará este archivo.
     
-    > [!IMPORTANT]
-    > Asegúrese de guardar el archivo en OneDrive, y no en el equipo local. En el ejercicio siguiente usará Copilot en PowerPoint para crear una presentación con diapositivas basada en este documento. El documento debe estar en OneDrive para que Copilot pueda acceder a él.
+    > **IMPORTANTE:** Asegúrese de guardar el archivo en OneDrive, y no en el equipo local. En el ejercicio siguiente usará Copilot en PowerPoint para crear una presentación con diapositivas basada en este documento. El documento debe estar en OneDrive para que Copilot pueda acceder a él.
 16. Cierre la pestaña que contiene este documento en el explorador Microsoft Edge.

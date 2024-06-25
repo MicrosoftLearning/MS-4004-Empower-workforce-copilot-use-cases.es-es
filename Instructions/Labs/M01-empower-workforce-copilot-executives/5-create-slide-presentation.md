@@ -23,8 +23,7 @@ En el ejercicio anterior accedió al balance de ingresos de la empresa en Copilo
     ![Captura de pantalla que muestra el menú Compartir y la opción Copiar vínculo resaltada.](../media/share-menu-with-copy-link-9fd1c60a.png)
     
     
-     > [!TIP]
-     > Copilot puede tener problemas ocasionalmente al usar la dirección URL de la barra de direcciones. Copie el vínculo de la bandeja **Compartir** para obtener los mejores resultados.
+     > **SUGERENCIA:** Copilot puede tener problemas ocasionalmente al usar la dirección URL de la barra de direcciones. Copie el vínculo de la bandeja **Compartir** para obtener los mejores resultados.
 
 5.  Cierre el cuadro de diálogo **Vínculo copiado** que aparece en Word.
 6.  Cierre esta pestaña de documentos en el explorador Microsoft Edge. Regresará a la pestaña **Word \| Microsoft 365**.

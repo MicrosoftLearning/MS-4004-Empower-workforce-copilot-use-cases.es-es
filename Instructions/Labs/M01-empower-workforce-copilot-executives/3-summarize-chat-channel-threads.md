@@ -21,8 +21,7 @@ En el panel de **Copilot**, cuando selecciona la opción **Más indicaciones**, 
      -  Aspectos destacados de esta conversación (canal de Teams)
      -  Resumen de la reunión (chat de Teams)
 
-> [!IMPORTANT]
-> Las indicaciones predefinidas que muestra Copilot pueden variar en función del contenido que esté disponible en el chat o canal seleccionado.
+> **IMPORTANTE:** Las indicaciones predefinidas que muestra Copilot pueden variar en función del contenido que esté disponible en el chat o canal seleccionado.
 
 Copilot en Teams usa las siguientes directrices para determinar qué indicaciones se mostrarán para un chat o canal determinado:
 
@@ -30,8 +29,7 @@ Copilot en Teams usa las siguientes directrices para determinar qué indicacione
  -  Copilot solo incluye las indicaciones vinculadas al tiempo ("Contenidos destacados del pasado...") y las indicaciones no vinculadas al tiempo ("Decisiones/elementos abiertos") si hay suficiente contenido en ese período temporal como para justificarlas.
  -  Copilot no muestra ninguna indicación para un chat si no hay suficiente contenido en el último día. En este caso, Copilot muestra el siguiente mensaje cuando selecciona **Más indicaciones**: *Podrá usar indicaciones cuando haya nuevo contenido en el chat. Mientras tanto, Copilot podrá seguir respondiendo a sus preguntas.*
 
-> [!NOTE]
-> Si un chat o canal no tiene suficiente contenido para garantizar el uso de Copilot, el icono de Copilot no aparecerá al seleccionar el chat o el canal.
+> **NOTA:** Si un chat o canal no tiene suficiente contenido para garantizar el uso de Copilot, el icono de Copilot no aparecerá al seleccionar el chat o el canal.
 
 #### Usar Copilot en un chat de Teams
 
@@ -43,8 +41,7 @@ Como ejecutivo de su organización, quiere usar Copilot en el chat y los canales
    ![Recorte de pantalla que muestra un chat en Teams y el icono de Copilot resaltado.](../media/copilot-teams-icon-da01ab29.png)
     
     
-   > [!NOTE]
-   > El icono de Copilot aparece en el chat individual, en el chat de grupo y en el chat de reunión.
+   > **NOTA:** El icono de Copilot aparece en el chat individual, en el chat de grupo y en el chat de reunión.
 3.  En la parte inferior del panel de **Copilot** que aparece, bajo el campo de indicaciones, seleccione **Más indicaciones**. En el menú desplegable que aparece, seleccione **Contenidos destacados de los últimos 30 días**. Si esta indicación predefinida no aparece en el menú desplegable, escriba en su lugar la siguiente indicación:
     
     **Resumir este chat**.

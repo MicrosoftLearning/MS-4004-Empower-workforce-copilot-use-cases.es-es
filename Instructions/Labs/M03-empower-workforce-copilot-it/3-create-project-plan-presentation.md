@@ -53,8 +53,7 @@ Como director de TI en Adatum Corporation, tiene previsto instalar el producto d
          
       ![Captura de pantalla que muestra el mensaje para reemplazar la imagen en una diapositiva y la respuesta de Copilot.](../media/copilot-powerpoint-replace-message-2-aa694058.png)
 
- > [!TIP]
- > Recuerde que Copilot sigue siendo un trabajo en curso, por lo que algunas características aún se están perfeccionando. Como procedimiento recomendado, si Copilot no puede completar la solicitud, inténtelo de nuevo. Y si sigue sin funcionar, intente reformular su solicitud o dividirla en dos.
+ > **SUGERENCIA:** Recuerde que Copilot sigue siendo un trabajo en curso, por lo que algunas características aún se están perfeccionando. Como procedimiento recomendado, si Copilot no puede completar la solicitud, inténtelo de nuevo. Y si sigue sin funcionar, intente reformular su solicitud o dividirla en dos.
 
 16. Aunque Copilot haya funcionado y reemplazado su imagen, supongamos por el interés de este ejercicio de entrenamiento que no ha sido así. En este caso, vamos a pedirle a Copilot que no solo reemplace la imagen, sino que elimine la diapositiva antigua y la reemplace por una diapositiva completamente nueva que contenga una imagen diferente. Escriba lo siguiente:
     
@@ -70,8 +69,7 @@ Como director de TI en Adatum Corporation, tiene previsto instalar el producto d
       -  ¿O quitó la diapositiva anterior pero no creó una nueva? Si es así, pídale que cree una nueva diapositiva de preguntas y respuestas con una imagen.
       -  ¿O no hizo nada? Si es así, intente dividir esta última indicación previa en dos: primero pídale que elimine la diapositiva de preguntas y respuestas, después envíe una segunda indicación pidiéndole que cree una nueva diapositiva de preguntas y respuestas con una imagen.
     
- > [!TIP]
- > Si Copilot no hizo lo que le solicitó o si le devolvió un error, este escenario es un buen ejemplo de cómo mantener las indicaciones lo más sencillas posible. Siga la sugerencia de Copilot reformulando su solicitud. Lo mejor es pedir a Copilot que realice una tarea cada vez, como por ejemplo eliminar primero la diapositiva antigua y después enviar una segunda solicitud para agregar una nueva diapositiva con una imagen (en nuestras pruebas, Copilot siempre usó una imagen diferente con cada solicitud).
+ > **SUGERENCIA:** Si Copilot no hizo lo que le solicitó o si le devolvió un error, este escenario es un buen ejemplo de cómo mantener las indicaciones lo más sencillas posible. Siga la sugerencia de Copilot reformulando su solicitud. Lo mejor es pedir a Copilot que realice una tarea cada vez, como por ejemplo eliminar primero la diapositiva antigua y después enviar una segunda solicitud para agregar una nueva diapositiva con una imagen (en nuestras pruebas, Copilot siempre usó una imagen diferente con cada solicitud).
 18. Independientemente de cómo hayan ido los últimos pasos en la resolución de la diapositiva de preguntas y respuestas, usted decide seguir adelante e intentar una última cosa. Al revisar la presentación, decide que quiere cambiar el tema de la misma por algo más apropiado debido a la naturaleza técnica del tema. Escriba lo siguiente:
     
  **Cambie el tema de esta presentación a algo más técnico.**

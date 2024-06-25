@@ -11,8 +11,7 @@ En este ejercicio de entrenamiento se usa Microsoft Copilot en Bing para crear 
 
 Como director de TI de Adatum Corporation, ha estado revisando un informe de especificaciones de producto para el producto de seguridad de red de Contoso CipherGuard Sentinel X7. Tiene previsto instalar este producto, que proporciona una protección de seguridad avanzada que está muy por encima de todo lo que tiene Adatum en la actualidad. Sin embargo, dada la complejidad de su red corporativa, quiere crear un plan de proyecto que sirva de planeamiento para implementar. Como tal, quiere que Copilot cree un plan de proyecto basado en las directrices del sector de TI para instalar componentes de seguridad de red. Después quiere que Copilot analice el informe de especificaciones del producto e incorpore sus requisitos al plan del proyecto.
 
-> [!NOTE]
-> Al final de este ejercicio, debe guardar el plan del proyecto en su cuenta de OneDrive. En el ejercicio siguiente se usa este archivo.
+> **NOTA:** Al final de este ejercicio, debe guardar el plan del proyecto en su cuenta de OneDrive. En el ejercicio siguiente se usa este archivo.
 
 Para hacer referencia al archivo en Copilot, este ejercicio busca el archivo en la lista de archivos Utilizados más recientemente (MRU).
 
@@ -42,4 +41,5 @@ Realice los pasos siguientes para crear el plan de proyecto mediante Microsoft 
     
     **Ya casi estamos. Divida cada elemento del informe en varios pasos detallados**.
 14. Consulte los resultados. Ahora que ya ha creado el plan del proyecto, DEBE guardarlo en un documento de Word. **Usará este documento de plan de proyecto en el próximo ejercicio**. En la parte inferior de la respuesta final de Copilot, seleccione el icono de flecha hacia abajo (**Exportar**) para exportar el contenido de la respuesta. Aparecerá un menú desplegable que le permitirá seleccionar el tipo de archivo al que quiere exportar la respuesta. Seleccione **Word**. Debería aparecer una ventana **Exportando** mientras Copilot exporta el contenido a un documento de Word. La ventana **Exportando** desaparece una vez finalizado el proceso.
+    > **NOTA:** Si la opción de exportación no está disponible, copie la salida en un nuevo documento de Word (vaya a word.new en el explorador) y guárdelo como "Proyecto Contoso CipherGuard plan.docx". A continuación, omita el paso 15.
 15. En la pestaña **Microsoft 365** de su explorador, seleccione **Word.** En la página principal de **Word**, el primer archivo que aparece en la lista de archivos MRU debería ser este documento de Word que creó Copilot. Nuestras pruebas mostraron que el nombre del archivo solía ser algo así como "**BingAnswers-xxx(fecha)xxxxxx-xxxxxx.**". Seleccione este archivo para abrirlo y compruebe que contiene el plan del proyecto que Copilot exportó. Guarde el archivo en la cuenta de OneDrive que contiene el documento de especificación del producto que usó en este ejercicio. Después, cambie el nombre de este archivo de **BingAnswers-xxx(fecha)xxxxxx-xxxxxx.docx** a **Plan de proyecto de Contoso CipherGuard.docx**. Usará este archivo en el ejercicio siguiente.

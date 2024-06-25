@@ -27,8 +27,7 @@ Como quiere crear un informe, piensa en el uso de Microsoft 365 Word. Ha oído q
     **Soy el Operations Manager de Adatum Corporation. Estamos pensando en la posibilidad de sustituir el actual sistema de caldera de nuestro edificio por un sistema de calefacción por aire caliente. Redacte un informe en el que describa qué tipo de sistemas de caldera se usan en la mayoría de los edificios comerciales e incluya las consideraciones que debo tener en cuenta para cambiar del sistema de caldera existente a un sistema por aire caliente, el coste medio de la transición de un sistema de caldera por agua caliente a un sistema por aire caliente en un edificio comercial de dos plantas construido en la década de los 70, si el cambio de un sistema de caldera de agua caliente a un sistema de aire caliente tendrá algún efecto en nuestro sistema de aire acondicionado actual y las tasas medias de defectos de los sistemas de caldera de agua caliente frente a los sistemas de aire caliente.**
 4.  Revise el informe generado por Copilot. Tenga en cuenta el nivel de detalle en cada área de interés. Como quiere guardar este documento para el próximo ejercicio de Casos de Uso, seleccione el botón **Conservar** en la bandeja de Copilot y luego guarde el documento.
     
-    > [!IMPORTANT]
-    > Asegúrese de guardar el informe ya que lo usará en el siguiente ejercicio de casos de uso.
+    > **IMPORTANTE:** Asegúrese de guardar el informe ya que lo usará en el siguiente ejercicio de casos de uso.
 5.  La solicitud que escribió para crear el informe incluía cinco solicitudes. Ahora quiere preguntar a Copilot cada una de esas cinco preguntas individualmente. Seleccione **Copilot** en la cinta de opciones de Word, que abre el panel de **Copilot**.
 6.  En el panel **Copilot**, en el campo de solicitud situado en la parte inferior del panel, escriba la siguiente pregunta y, a continuación, seleccione la flecha **Enviar**:
     

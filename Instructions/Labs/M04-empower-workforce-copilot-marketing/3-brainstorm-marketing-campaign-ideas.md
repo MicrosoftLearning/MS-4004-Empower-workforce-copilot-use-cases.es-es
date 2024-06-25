@@ -35,8 +35,7 @@ En el ejercicio anterior, Tailspin Toys realizó un análisis de mercado del sec
     
     **Ordena las ideas de la tabla de más a menos eficaces**.
     
-    > [!NOTE]
-    > Busque el icono **Ordenar** (con las flechas para subir y bajar) que aparece en la bandeja de iconos situada encima de la lista de ideas. Esta opción simplemente ordena las ideas en orden alfabético. Puede ordenar en función del nombre de cada **idea** o la primera palabra de cada campo **Detalles**. Sin embargo, no se basa en la eficacia estimada de las ideas, que es lo que desea y lo que solicitó en la indicación.
+    > **NOTA:** Busque el icono **Ordenar** (con las flechas para subir y bajar) que aparece en la bandeja de iconos situada encima de la lista de ideas. Esta opción simplemente ordena las ideas en orden alfabético. Puede ordenar en función del nombre de cada **idea** o la primera palabra de cada campo **Detalles**. Sin embargo, no se basa en la eficacia estimada de las ideas, que es lo que desea y lo que solicitó en la indicación.
 15. Después de revisar las ideas ordenadas, decide realizar un cambio final. Quiere que Copilot reemplace la idea menos efectiva por un evento de campaña titulado **Promociones estacionales**. Cree que encaja bien con una nueva línea de juguetes que se centra en productos de exterior. Para ello, escriba la siguiente indicación:
     
     **Reemplaza la idea final de la tabla por Promociones estacionales**.
