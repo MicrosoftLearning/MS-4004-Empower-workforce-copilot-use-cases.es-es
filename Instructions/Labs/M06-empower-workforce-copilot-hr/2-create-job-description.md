@@ -33,5 +33,4 @@ Como administrador de RR. HH. en el Instituto de diseño gráfico, inició el p
     En este caso, vuelva al segundo borrador. Vuelva a revisar la lista de responsabilidades. Aunque no es tan extensa como la lista del tercer borrador, tiene un aspecto más limpio y sigue proporcionando información suficiente para que un candidato entienda lo que se espera de él en este puesto de diseñador jefe de animación. Decide que el segundo borrador es preferible al borrador final, así que opta por utilizar este. En la ventana Copilot, seleccione el botón **Conservar**.
 11. Ya puede avanzar con este documento de descripción de funciones, así que guárdelo en su cuenta de OneDrive con el nombre de archivo **Instituto de Diseño Gráfico: Descripción del puesto.docx**.
 
-    > [!NOTE]
-    > Es importante guardar este documento, ya que lo usará en el siguiente ejercicio.
+    > **NOTA:** Es importante guardar este documento, ya que lo usará en el siguiente ejercicio.

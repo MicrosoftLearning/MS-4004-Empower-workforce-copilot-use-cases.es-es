@@ -53,8 +53,7 @@ En el ejercicio anterior, ha usado Microsoft Copilot para crear un informe que i
     
     **La vida útil media de un sistema de calefacción por agua caliente es de aproximadamente 15 años, mientras que un sistema de calefacción por aire caliente puede durar hasta 20 años. Sin embargo, la duración real del sistema puede variar en función de factores como el mantenimiento, el uso y la calidad del sistema.**
 
-    > [!NOTE]
-    > Este ejemplo demuestra que, a veces, solo tiene que volver a trabajar en las solicitudes si Copilot no hace exactamente lo que quiere.
+    > **NOTA:** Este ejemplo demuestra que, a veces, solo tiene que volver a trabajar en las solicitudes si Copilot no hace exactamente lo que quiere.
 
 18. Observa que no hay una diapositiva al final para una sesión de preguntas y respuestas (Q&A). Para corregir esta situación, escriba la siguiente indicación:
     

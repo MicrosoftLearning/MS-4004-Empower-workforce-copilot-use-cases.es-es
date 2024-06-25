@@ -26,8 +26,7 @@ Como consultor principal de Trey Research, es el responsable de administrar el p
     **Escriba una nueva sección para este documento sobre los tipos de VPN. Analice las ventajas y desventajas de cada tipo. Este contenido es para un público técnico, de modo que proporcione detalles específicos.**
 7.  Como puede ver, Copilot no agrega contenido nuevo directamente a un documento. Muestra el contenido en una ventana de respuesta en el panel Copilot. Sin embargo, proporciona un botón **Copiar** en la parte inferior de cada ventana de respuesta, de modo que seleccione el botón **Copiar** para copiar su contenido en el Portapapeles. Al examinar el documento, decide pegar el contenido debajo del párrafo de apertura. Pegue el contenido ahora.
     
-    > [!TIP]
-    > Al seleccionar el botón **Copiar** para una ventana de respuesta, copia TODO el contenido, incluidos los comentarios de Copilot destinados a usted. Estos tipos de comentarios suelen aparecer al principio y al final de la respuesta. Asegúrese de quitar estos comentarios una vez que pegue la respuesta en el documento. Lo más probable es que la fuente y el tamaño de fuente del nuevo contenido no coincidan con la fuente y el tamaño existentes utilizados en todo el documento. Por lo tanto, debe cambiarlos para que coincidan.
+    > **SUGERENCIA:** Al seleccionar el botón **Copiar** para una ventana de respuesta, copia TODO el contenido, incluidos los comentarios de Copilot destinados a usted. Estos tipos de comentarios suelen aparecer al principio y al final de la respuesta. Asegúrese de quitar estos comentarios una vez que pegue la respuesta en el documento. Lo más probable es que la fuente y el tamaño de fuente del nuevo contenido no coincidan con la fuente y el tamaño existentes utilizados en todo el documento. Por lo tanto, debe cambiarlos para que coincidan.
 
 8.  Tras una revisión más profunda, observa que no hay ninguna mención de las directivas de seguridad relacionadas con el uso de VPN. Este tema es un área clave que desea incluir, de modo que escriba lo siguiente:
     
@@ -35,8 +34,7 @@ Como consultor principal de Trey Research, es el responsable de administrar el p
 9.  Copie y pegue el contenido de esta respuesta en el documento. Colóquelo justo antes de la sección **Riesgos y mitigaciones** y, a continuación, edite el contenido según sea necesario. Si es necesario, agregue el título **Directivas de seguridad relacionadas con el uso de VPN** para esta sección.
 10. Al revisar el informe, también identificó un área de contenido que sentía que era necesario reescribir. En la sección sobre **Riesgos y mitigaciones**, la primera viñeta cubre VPN domésticas y empresariales. Quiere que solo aborde las VPN empresariales. Sin embargo, dado el modo en que se escribe el contenido, no parece ser una corrección sencilla. Decide que Copilot reescriba el contenido automáticamente.
     
-    > [!TIP]
-    > Para que Copilot reescriba el contenido, primero debe resaltar el contenido que desea que Copilot reescriba.
+    > **SUGERENCIA:** Para que Copilot reescriba el contenido, primero debe resaltar el contenido que desea que Copilot reescriba.
     
 11. Resalte el contenido en la primera viñeta de la sección **Riesgos y mitigaciones** y, a continuación, escriba lo siguiente:
     

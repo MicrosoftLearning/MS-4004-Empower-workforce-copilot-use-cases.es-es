@@ -37,9 +37,8 @@ Como administrador de operaciones en Adatum Corporation, tiene previsto instalar
     **Sugiere los pasos que debemos seguir para instalar una nueva caldera en el sistema de calefacción de nuestro edificio**.
 10.  De forma predeterminada, Copilot genera ideas en grupos de seis. En la ventana **Sugerir contenido con Copilot** que aparece, observe las seis primeras ideas que se han generado. Aquí, Copilot le ofrece dos opciones: puede adjuntar las ideas a su pizarra si está satisfecho con las sugerencias o puede hacer que Copilot genere más sugerencias. Observe cómo el botón **Insertar (6)** indica el número de ideas que Copilot ha generado (en este caso, 6). Aunque seis sugerencias son un buen punto de partida, quiere profundizar en las tareas necesarias para instalar el producto de seguridad; por tanto, seleccione el botón **Generar más**.
 
-    > [!NOTE]
-    > Si Copilot muestra un mensaje de error de cualquier tipo, vuelva a seleccionar el botón **Generar más**. Haga esto cada vez que reciba un mensaje de error. 
-    
+     > **NOTA:** Si Copilot muestra un mensaje de error de cualquier tipo, vuelva a seleccionar el botón **Generar más**. Haga esto cada vez que reciba un mensaje de error. 
+      
 12. Observe que Copilot ha generado otras seis ideas, por lo que el botón **Insertar (12)** ahora muestra **12**. Aunque puede seguir generando más ideas, por cuestiones de tiempo, vamos a insertar las 12 ideas presentadas en este momento. Seleccione el botón **Insertar (12)**.
 13. Al seleccionar el botón **Insertar**, Copilot adjunta las ideas sugeridas a la pizarra en forma de notas rápidas amarillas. Al igual que en una sesión real de lluvia de ideas en la que se usan notas rápidas reales, puede editar una nota determinada, eliminarla, bloquearla para que no se pueda eliminar en el futuro, etc. En Microsoft Whiteboard, estas actividades se admiten mediante la funcionalidad de pizarra estándar.
     
@@ -54,8 +53,7 @@ Como administrador de operaciones en Adatum Corporation, tiene previsto instalar
 19. Observe lo que ha ocurrido. Copilot ha generado un conjunto de categorías y ha reorganizado las notas en consecuencia. A cada categoría de notas se le ha asignado un color diferente para ayudar a identificar las diferencias entre las categorías. Si el rectángulo que contiene las notas no ocupa toda la pantalla, seleccione el icono **Ajustar a la pantalla** en la esquina inferior derecha de la página. Si lo hace, el tamaño de la imagen aumentará hasta alcanzar el tamaño máximo que puede tener sin superar el tamaño de la pantalla.
 20. Observe la bandeja de iconos que aparece debajo del grupo organizado de notas. Si no está satisfecho con las categorías, seleccione el botón **Regenerar** de la bandeja de iconos que aparece.
     
-    > [!NOTE]
-    > Puede seleccionar el botón **Regenerar** tantas veces como sea necesario hasta que esté satisfecho con las categorías que Copilot proporciona. Seleccione este botón varias veces y observe los cambios que Copilot realiza cada vez. Además de cambiar los nombres de las categorías, Copilot puede agregar o reducir el número de categorías con cada regeneración.
+    > **NOTA:** Puede seleccionar el botón **Regenerar** tantas veces como sea necesario hasta que esté satisfecho con las categorías que Copilot proporciona. Seleccione este botón varias veces y observe los cambios que Copilot realiza cada vez. Además de cambiar los nombres de las categorías, Copilot puede agregar o reducir el número de categorías con cada regeneración.
 
 21. Después de regenerar las categorías varias veces, se da cuenta de que faltan pasos detallados relacionados con la minimización del tiempo de inactividad del sistema. Quiere pedirle a Copilot que agregue más ideas relacionadas con esta cuestión a su sesión de Whiteboard. Además, ha identificado una nota de que desea quitar. Sin embargo, dado que ya ha organizado sus ideas, debe cambiar la sesión de Whiteboard al modo de edición en el que estaba antes de clasificar las notas. Para ello, seleccione el botón **Revertir**.
 22. Ahora que ha vuelto al modo de edición, seleccione una nota que ya no quiera y, a continuación, en la bandeja de iconos que aparece, seleccione el icono de puntos suspensivos. En el menú que aparece, seleccione **Eliminar**.
