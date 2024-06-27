@@ -22,9 +22,9 @@ Decide usar Copilot en Word para combinar los informes en un único informe de A
 
 Realice los siguientes pasos para crear este informe de análisis de mercado con Copilot en Word:
 
-1.  Seleccione el siguiente enlace para descargar una copia de la [descripción del producto Mystic Spice Premium Chai Tea](https://edxinteractivepage.blob.core.windows.net/ms-4004/Mystic%20Spice%20Premium%20Chai%20Tea%20product%20description.docx).
-2.  Seleccione el siguiente vínculo para descargar una copia de [Tendencias del mercado del té chai de Contoso en 2023](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20Chai%20Tea%20market%20trends%202023.docx).
-3.  Seleccione el siguiente vínculo para descargar una copia del [Plan de promoción del té chai en América Latina](https://edxinteractivepage.blob.core.windows.net/ms-4004/Promotion%20Plan%20for%20Chai%20Tea%20in%20Latin%20America.docx).
+1.  Seleccione el siguiente enlace para descargar una copia de la [descripción del producto Mystic Spice Premium Chai Tea](https://go.microsoft.com/fwlink/?linkid=2268929).
+2.  Seleccione el siguiente vínculo para descargar una copia de [Tendencias del mercado del té chai de Contoso en 2023](https://go.microsoft.com/fwlink/?linkid=2269122).
+3.  Seleccione el siguiente vínculo para descargar una copia del [Plan de promoción del té chai en América Latina](https://go.microsoft.com/fwlink/?linkid=2269126).
 4.  Una vez finalizada la descarga, abra el **Explorador de archivos** y mueva los archivos de la carpeta **Descargas** a una carpeta de la cuenta de OneDrive.
 5.  En este ejercicio, accederá a los documentos de la lista de archivos usados más recientemente (MRU). Para que los archivos aparezcan en la lista MRU, abra y cierre cada uno de los tres archivos en su cuenta de OneDrive.
 6.  En **Microsoft 365**, abra **Microsoft Word**, y después abra un nuevo documento en blanco.

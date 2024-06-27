@@ -14,7 +14,7 @@ Si está trabajando en un documento existente, Copilot puede ayudarle a reescrib
 
 Como director de Finanzas de Fabrikam, usó Copilot en Excel para analizar la eficacia de las campañas de marketing Q1 de la empresa en el ejercicio anterior. En este ejercicio, planea usar Copilot en Word para generar un informe que resuma el análisis de esos datos. La hoja de cálculo se ha copiado y pegado automáticamente en un documento de Word, que descargará en el primer paso.
 
-1.  Seleccione el vínculo siguiente para descargar el archivo [Fabrikam Q1 marketing campaign data](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%20Q1%20marketing%20campaign%20data.docx).
+1.  Seleccione el vínculo siguiente para descargar el archivo [Fabrikam Q1 marketing campaign data](https://go.microsoft.com/fwlink/?linkid=2268926).
 2.  Una vez completada la descarga, mueva el archivo a su cuenta de OneDrive y, a continuación, abra y cierre el archivo para obtenerlo en la lista de archivos usados más recientemente (MRU).
 3.  Si tiene una pestaña de **Microsoft 365** abierta en su explorador de Microsoft Edge, selecciónela ahora; de lo contrario, abra una nueva pestaña y escriba la siguiente URL: **https://www.office.com**
 4.  En **Microsoft 365**, abra **Microsoft Word**, y después abra un documento en blanco.

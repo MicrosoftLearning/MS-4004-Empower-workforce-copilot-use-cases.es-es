@@ -27,7 +27,7 @@ Para hacer referencia al archivo en Copilot, este ejercicio busca el archivo de 
 
 Realice los siguientes pasos para generar su discurso usando Copilot en Word:
 
-1.  Seleccione el siguiente vínculo para descargar una copia de la [declaración de ingresos de Fabrikam de 2023](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%202023%20Income%20Statement.docx).
+1.  Seleccione el siguiente vínculo para descargar una copia de la [declaración de ingresos de Fabrikam de 2023](https://go.microsoft.com/fwlink/?linkid=2268823).
 2.  Una vez finalizada la descarga, abra el **Explorador de archivos** y mueva el archivo de su carpeta **Descargas** a una carpeta de su cuenta de OneDrive.
 3.  En este ejercicio, accederá al documento desde la lista de archivos MRU. Para que el archivo aparezca en la lista, abra el documento y después ciérrelo.
 4.  En **Microsoft 365**, abra un documento en blanco de **Microsoft Word** escribiendo la siguiente dirección URL: **Word.new** 
