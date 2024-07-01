@@ -10,7 +10,7 @@ Copilot en Word también puede analizar los comentarios y las encuestas de los e
 
 Como administrador de RR. HH. en el Instituto de diseño gráfico, inició el proceso de contratación para un nuevo Diseñador de animaciones sénior. Su personal ha creado un documento que resume todas las responsabilidades laborales de este rol. Ahora quiere usar Copilot en Word para crear una descripción del trabajo en función de las responsabilidades de rol de este documento.
 
-1.  Seleccione el siguiente vínculo para descargar el documento del [Instituto de Diseño Gráfico: Responsabilidades del equipo de diseño](https://edxinteractivepage.blob.core.windows.net/ms-4004/Graphic%20Design%20Institute%20-%20Design%20Team%20Responsibilities.docx).
+1.  Seleccione el siguiente vínculo para descargar el documento del [Instituto de Diseño Gráfico: Responsabilidades del equipo de diseño](https://go.microsoft.com/fwlink/?linkid=2268824).
 2.  Una vez completada la descarga, mueva el archivo a su cuenta de OneDrive y, a continuación, abra y cierre el archivo para obtenerlo en la lista de archivos usados más recientemente (MRU).
 3.  Si tiene una pestaña de Microsoft 365 abierta en su explorador de Microsoft Edge, selecciónela ahora; de lo contrario, abra una nueva pestaña y escriba la siguiente URL: **https://www.office.com**
 4.  En **Microsoft 365**, abra **Microsoft Word**, y después abra un documento en blanco.

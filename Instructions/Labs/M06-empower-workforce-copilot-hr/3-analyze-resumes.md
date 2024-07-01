@@ -13,10 +13,10 @@ Como administrador de RR. HH. en el Instituto de diseño gráfico, inició el p
 Al final del ejercicio anterior, guardó el archivo de descripción del trabajo que creó. Se le indicó que guarde el archivo como **Instituto de diseño gráfico: Descripciones de trabajo.docx**. Si lo guardó con un nombre de archivo diferente, recuerde el nombre que usó para poder localizar el archivo en este ejercicio. En este ejercicio, realice los siguientes pasos para que Copilot en Word compare los cuatro currículos que ha recibido con este archivo de descripción del puesto para ayudarle a determinar qué candidato está más cualificado:
 
 1.  Seleccione los siguientes vínculos para descargar los currículum vítae que ha recibido hasta ahora:
-     -  [Currículum Vitae - Patti Fernandez](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Patti%20Fernandez.docx)
-     -  [Currículum vítae - Nestor Wilke](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Nestor%20Wilke.docx)
-     -  [Currículum vítae - Holly Dickson](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Holly%20Dickson.docx)
-     -  [Currículum vítae - Alex Wilber](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Alex%20Wilber.docx)
+     -  [Currículum Vitae - Patti Fernandez](https://go.microsoft.com/fwlink/?linkid=2268829)
+     -  [Currículum vítae - Nestor Wilke](https://go.microsoft.com/fwlink/?linkid=2268930)
+     -  [Currículum vítae - Holly Dickson](https://go.microsoft.com/fwlink/?linkid=2268828)
+     -  [Currículum vítae - Alex Wilber](https://go.microsoft.com/fwlink/?linkid=2269127)
 2.  Una vez finalizadas las descargas, abra el **Explorador de archivos** y copie los archivos de su carpeta **Descargas** a una carpeta de su cuenta de OneDrive.
 3.  En este ejercicio, accederá a los documentos de la lista de archivos usados más recientemente (MRU). Para que los archivos aparezcan en la lista de MRU, abra cada documento y ciérrelo. Abra y cierre cada uno de los cuatro archivos de currículum vítae en su cuenta de OneDrive.
 4.  En **Microsoft 365**, abra **Microsoft Word**, y después abra un nuevo documento en blanco.

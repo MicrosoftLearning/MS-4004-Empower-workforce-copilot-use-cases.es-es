@@ -25,7 +25,7 @@ Como director de marketing de Contoso Beverage (una división de Contoso, Ltd.),
 
 Realice los pasos siguientes para analizar la hoja de cálculo de tendencias de mercado mediante Copilot en Excel:
 
-1.  Si descargó la hoja de cálculo [Tendencias de mercado del té Chai de Contoso en 2023](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20Chai%20Tea%20market%20trends%202023.xlsx) en el ejercicio anterior, continúe con el siguiente paso. Si no lo hizo, seleccione el vínculo para descargar el archivo, muévalo a su cuenta de OneDrive y, a continuación, abra y cierre el archivo para que se incluya en la lista de archivos usados más recientemente (MRU).
+1.  Si descargó la hoja de cálculo [Tendencias de mercado del té Chai de Contoso en 2023](https://go.microsoft.com/fwlink/?linkid=2268822) en el ejercicio anterior, continúe con el siguiente paso. Si no lo hizo, seleccione el vínculo para descargar el archivo, muévalo a su cuenta de OneDrive y, a continuación, abra y cierre el archivo para que se incluya en la lista de archivos usados más recientemente (MRU).
 2.  Si tiene una pestaña de Microsoft 365 abierta en su explorador de Microsoft Edge, selecciónela ahora; de lo contrario, abra una nueva pestaña y escriba la siguiente URL: **https://www.office.com**
 3.  En la página principal de **Microsoft 365**, seleccione el icono de **Excel** en el panel de navegación de la izquierda.
 4.  En **Excel**, en la página **Archivo**, seleccione **Tendencias de mercado del té Chai de Contoso en 2023.xlsx** en la lista de archivos.

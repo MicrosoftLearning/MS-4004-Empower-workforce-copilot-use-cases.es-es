@@ -19,7 +19,7 @@ Como administrador de RR. HH. para el Instituto de Diseño Gráfico, completó e
 
 Desea que el correo electrónico tenga un tono formal y profesional, y debe incluir el cargo, la fecha de inicio, el salario y los beneficios (que aparecen en un archivo que debe descargar). El correo electrónico también debe mencionar que la oferta está supeditada a la superación de una comprobación de antecedentes y de cualquier otro examen previo a la contratación que pueda ser necesario. Como carta de oferta por correo electrónico, también debe incluir una copia adjunta de la carta de oferta para que el candidato la firme y la devuelva.
 
-1.  Seleccione el siguiente vínculo para descargar el documento [Instituto de Diseño Gráfico: ventajas para los empleados](https://edxinteractivepage.blob.core.windows.net/ms-4004/Graphic%20Design%20Institute%20-%20Employee%20benefits.docx).
+1.  Seleccione el siguiente vínculo para descargar el documento [Instituto de Diseño Gráfico: ventajas para los empleados](https://go.microsoft.com/fwlink/?linkid=2268825).
 2.  Cuando el archivo termine de descargarse, muévalo a su cuenta de OneDrive y, a continuación, ábralo y ciérrelo para que aparezca en la lista de archivos más utilizados (MRU).
 3.  Si tiene una pestaña de Microsoft 365 abierta en su explorador de Microsoft Edge, selecciónela ahora; de lo contrario, abra una nueva pestaña y escriba la siguiente URL: **https://www.office.com**
 4.  En **Microsoft 365**, abra **Outlook**.
