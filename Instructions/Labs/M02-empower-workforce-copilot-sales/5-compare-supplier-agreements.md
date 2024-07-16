@@ -20,7 +20,7 @@ Realice los siguientes pasos para generar su discurso usando Copilot en Word:
 1.  Seleccione los vínculos siguientes para descargar los tres acuerdos con los proveedores:
      -  [Acuerdo con el proveedor de Contoso](https://go.microsoft.com/fwlink/?linkid=2268925)
      -  [Acuerdo con el proveedor de Tailwind Traders](https://go.microsoft.com/fwlink/?linkid=2269128)
-     -  [Acuerdo con el proveedor de Wide World Importers](https://go.microsoft.com/fwlink/?linkid=2269129)
+     -  [Acuerdo con el proveedor de Wide World Importers](https://go.microsoft.com/fwlink/?linkid=2268931)
 2.  Una vez finalizadas las descargas, abra el **Explorador de archivos** y copie los archivos de su carpeta **Descargas** a una carpeta de su cuenta de OneDrive.
 3.  En este ejercicio, accede a los documentos desde la lista de archivos usados más recientemente. Para que los archivos aparezcan en la lista de MRU, abra cada documento y ciérrelo. Abra y cierre cada uno de los tres archivos de la cuenta de OneDrive.
 4.  En **Microsoft 365**, abra **Microsoft Word** y, a continuación, abra un nuevo documento en blanco.
