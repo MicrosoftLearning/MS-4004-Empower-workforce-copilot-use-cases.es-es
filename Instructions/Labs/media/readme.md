@@ -1,1 +1,1 @@
-Placeholder folder
+Carpeta de marcador de posición
