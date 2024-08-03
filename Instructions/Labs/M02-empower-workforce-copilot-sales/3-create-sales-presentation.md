@@ -49,7 +49,7 @@ Como director de ventas y marketing de Contoso, Ltd., debe hacer una presentaci�
      -  Si Copilot completó esta tarea, escriba una indicación que le pida que genere la respuesta a cada una de las preguntas sugeridas y agregue las respuestas a sus respectivas preguntas en las notas del orador de la diapositiva de preguntas y respuestas. Vea si Copilot también puede completar esa tarea.
      -  Si Copilot no pudo completar esta tarea, solo muestra que sigue siendo un trabajo en curso. Aunque puede que no sea capaz de completar todo lo que quiere en este momento, siga comprobando si finalmente puede. Este escenario es otro ejemplo del procedimiento recomendado que ha aprendido en el entrenamiento anterior: **Comprender las limitaciones de Copilot.**
         
-        Si Copilot no pudo agregar preguntas a la diapositiva de preguntas y respuestas, pruebe esta solución alternativa. Escriba la siguiente indicación que le pide que genere una lista de preguntas:
+    -    Si Copilot no pudo agregar preguntas a la diapositiva de preguntas y respuestas, pruebe esta solución alternativa. Escriba la siguiente indicación que le pide que genere una lista de preguntas:
         
         **¿Qué tipo de preguntas cree que los participantes pueden formular durante la sesión de preguntas y respuestas**?
         
