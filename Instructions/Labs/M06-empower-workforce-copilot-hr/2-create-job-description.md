@@ -1,14 +1,14 @@
-# Crear una descripción de trabajo con Copilot en Word
+# Creación de una descripción de trabajo con Microsoft 365 Copilot en Word
 ---
-Copilot en Word es un asistente de escritura basado en IA que puede ayudar a los profesionales de RR. HH. a agilizar sus procesos de trabajo y mejorar su productividad. Copilot puede ayudar a los profesionales de RR. HH. de diversas formas, como la selección automatizada de currículos, la asistencia en la descripción de puestos, la incorporación eficiente, el análisis de las opiniones de los empleados, etc.
+Microsoft 365 Copilot en Word es un asistente de escritura con tecnología de IA que puede ayudar a los profesionales de RR. HH. a simplificar sus procesos de trabajo y mejorar su productividad. Copilot puede ayudar a los profesionales de RR. HH. de diversas formas, como la selección automatizada de currículos, la asistencia en la descripción de puestos, la incorporación eficiente, el análisis de las opiniones de los empleados, etc.
 
 Por ejemplo, Copilot puede automatizar las fases iniciales del proceso de selección de currículos, ayudando a los profesionales de RR. HH. a identificar rápidamente a los candidatos más adecuados entre grandes grupos de solicitantes. Copilot también puede simplificar la gestión de los documentos de incorporación, desde la generación de contratos hasta la difusión de directivas, haciendo que el proceso de incorporación sea más eficiente. Además, puede ayudar a crear planes de incorporación personalizados para los nuevos empleados, garantizando que se sientan bienvenidos y bien informados desde el primer día.
 
-Copilot en Word también puede analizar los comentarios y las encuestas de los empleados, lo que proporciona a los profesionales de RR. HH. información sobre la satisfacción de los empleados y las áreas de mejora. Puede sugerir programas de formación y desarrollo a medida para los empleados, mejorando sus competencias y su progresión profesional.
+Microsoft 365 Copilot en Word también puede analizar los comentarios y encuestas de los empleados y proporcionar a los profesionales de RR. HH. información sobre la satisfacción de los empleados y las áreas de mejora. Puede sugerir programas de formación y desarrollo a medida para los empleados, mejorando sus competencias y su progresión profesional.
 
 ### Ejercicio
 
-Como administrador de RR. HH. en el Instituto de diseño gráfico, inició el proceso de contratación para un nuevo Diseñador de animaciones sénior. Su personal ha creado un documento que resume todas las responsabilidades laborales de este rol. Ahora quiere usar Copilot en Word para crear una descripción del trabajo en función de las responsabilidades de rol de este documento.
+Como administrador de RR. HH. en el Instituto de diseño gráfico, inició el proceso de contratación para un nuevo Diseñador de animaciones sénior. Su personal ha creado un documento que resume todas las responsabilidades laborales de este rol. Ahora quieres usar Microsoft 365 Copilot en Word para crear una descripción del trabajo en función de las responsabilidades del rol de este documento.
 
 1.  Seleccione el siguiente vínculo para descargar el documento del [Instituto de Diseño Gráfico: Responsabilidades del equipo de diseño](https://go.microsoft.com/fwlink/?linkid=2268824).
 2.  Una vez completada la descarga, mueva el archivo a su cuenta de OneDrive y, a continuación, abra y cierre el archivo para obtenerlo en la lista de archivos usados más recientemente (MRU).
@@ -27,7 +27,7 @@ Como administrador de RR. HH. en el Instituto de diseño gráfico, inició el p
     **Este borrador de descripción del puesto es mejor, pero aún le faltan los detalles que busco. En el documento de responsabilidades laborales se detallan las responsabilidades de cada área. Incluya esos detalles en esta descripción del trabajo. Sea lo más específico posible**.
 10. Tras revisar los resultados, recuerda el dicho: "Hay que tener cuidado con lo que se desea". La lista de responsabilidades de este tercer borrador es larga; de hecho, quizá demasiado larga para un documento de descripción de funciones viable. Llegados a este punto, conviene revisar los borradores anteriores para ver si los primeros son quizá preferibles a este más largo. En la ventana Copilot, justo encima del campo de solicitud, anote el borrador de la versión actual del documento. En este caso, está en el borrador 3 de 3. Para revisar un borrador anterior, seleccione la flecha hacia atrás (&lt;) para volver al segundo borrador y luego al primero. Use las flechas hacia delante (&gt;) para volver a los borradores más recientes.
     
-    ![Captura de pantalla que muestra el intervalo de borradores en la ventana Copilot en Word, con el borrador actual, que es el borrador 3 de 3.](../media/copilot-word-drafts-db99d003.png)
+    ![Captura de pantalla que muestra el intervalo de borradores en la ventana de Microsoft 365 Copilot en Word cuyo borrador actual es el borrador 3 de 3.](../media/copilot-word-drafts-db99d003.png)
     
     
     En este caso, vuelva al segundo borrador. Vuelva a revisar la lista de responsabilidades. Aunque no es tan extensa como la lista del tercer borrador, tiene un aspecto más limpio y sigue proporcionando información suficiente para que un candidato entienda lo que se espera de él en este puesto de diseñador jefe de animación. Decide que el segundo borrador es preferible al borrador final, así que opta por utilizar este. En la ventana Copilot, seleccione el botón **Conservar**.

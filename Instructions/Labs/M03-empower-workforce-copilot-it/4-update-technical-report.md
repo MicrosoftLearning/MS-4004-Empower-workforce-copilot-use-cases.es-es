@@ -1,20 +1,20 @@
 
-Actualización de un informe técnico mediante Copilot en Word
+Actualización de un informe técnico con Microsoft 365 Copilot en Word
 ---
-Copilot en Word es un asistente de escritura con inteligencia artificial que puede ayudar a los profesionales de TI a crear documentos con mayor eficacia. Al crear un nuevo documento o trabajar en uno existente, Copilot puede ayudarle de varias maneras diferentes.
+Microsoft 365 Copilot en Word es un asistente de escritura con tecnología de IA que puede ayudar a los profesionales de TI a crear documentos de forma más eficaz. Al crear un nuevo documento o trabajar en uno existente, Copilot puede ayudarle de varias maneras diferentes.
 
  -  En un documento nuevo en blanco o cuando quiera agregar contenido a un documento existente, puede indicar a Copilot sobre qué desea escribir y generará el contenido en consecuencia. Por ejemplo, podría indicar a Copilot que realizara una de las acciones siguientes: “Escribir un ensayo sobre las ventajas de la informática en la nube” o “Crear un párrafo sobre la importancia de la ciberseguridad”. Si lo desea, puede incluir hasta tres de los archivos existentes como entradas para fundamentar el contenido redactado por Copilot. O bien, Copilot puede basar el nuevo contenido en datos web públicos.
  -  En un documento con contenido existente, Copilot puede ayudarle a transformar el contenido. Puede reescribir el contenido seleccionado o incluso transformar dicho contenido en una tabla.
 
-En general, Copilot en Word puede ayudar a los profesionales de TI a ahorrar tiempo y esfuerzo al crear documentos. Puede ayudarle a generar contenido, reescribir texto y proporcionar sugerencias útiles. Con su asistencia de escritura con inteligencia artificial, Copilot puede ayudarle a crear documentos de manera más eficiente y efectiva.
+En general, Microsoft 365 Copilot en Word puede ayudar a los profesionales de TI a ahorrar tiempo y esfuerzo al crear documentos. Puede ayudarle a generar contenido, reescribir texto y proporcionar sugerencias útiles. Con su asistencia de escritura con inteligencia artificial, Copilot puede ayudarle a crear documentos de manera más eficiente y efectiva.
 
-En este ejercicio, usará Copilot en Word para actualizar un documento existente. Le indicará a Copilot que agregue nuevo texto, reescriba el texto existente y transforme el texto en una tabla.
+En este ejercicio, usarás Microsoft 365 Copilot en Word para actualizar un documento existente. Le indicará a Copilot que agregue nuevo texto, reescriba el texto existente y transforme el texto en una tabla.
 
 ### Ejercicio
 
 Fabrikam tiene interés en implementar una red privada virtual (VPN) en su red corporativa. Para ello, ha contratado a Trey Research, una de las empresas de consultoría de TI más consumadas del país, para ayudar con la implementación. Para ayudar a poner en marcha el proyecto, los miembros del grupo de consultoría de red de Trey Research crearon un informe para el personal de TI de Fabrikam que proporciona información general sobre las VPN. El propósito del informe es ayudar a informar al equipo del proyecto de Fabrikam sobre las VPN antes de iniciar la implementación.
 
-Como consultor principal de Trey Research, es el responsable de administrar el proyecto de Fabrikam. Es su trabajo presentar este documento a Fabrikam y poner al día a sus miembros sobre los detalles de la implementación de VPN. Sin embargo, después de revisar el informe, ha decidido que desea realizar algunos cambios más en el mismo. Aunque la versión preliminar de su equipo estaba bien, sentía que le faltaba un par de datos clave y quiere volver a formatear partes de ella para facilitar la síntesis a Fabrikam. Tiene previsto usar Copilot en Word para ayudar con este esfuerzo. Para ello, lleve a cabo los siguientes pasos:
+Como consultor principal de Trey Research, es el responsable de administrar el proyecto de Fabrikam. Es su trabajo presentar este documento a Fabrikam y poner al día a sus miembros sobre los detalles de la implementación de VPN. Sin embargo, después de revisar el informe, ha decidido que desea realizar algunos cambios más en el mismo. Aunque la versión preliminar de su equipo estaba bien, sentía que le faltaba un par de datos clave y quiere volver a formatear partes de ella para facilitar la síntesis a Fabrikam. Planeas usar Microsoft 365 Copilot en Word para ayudar con este esfuerzo. Para ello, lleve a cabo los siguientes pasos:
 
 1.  Seleccione el siguiente vínculo para descargar una copia del informe [Trey Research - VPN Technical Overview](https://go.microsoft.com/fwlink/?linkid=2269129).
 2.  Una vez completada la descarga, mueva el archivo de la carpeta **Descargas** a una carpeta de la cuenta de OneDrive.

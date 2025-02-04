@@ -1,4 +1,4 @@
-# Resumir los hilos de chat y canal mediante Copilot en Teams
+# Resumen de los hilos de chat y canal con Microsoft 365 Copilot en Teams
 ---
 El dominio de Copilot para Teams es una aptitud fundamental para los ejecutivos que buscan agilizar la colaboración e impulsar resultados prácticos en sus equipos. En el vertiginoso mundo de la comunicación, examinar las conversaciones y los hilos del canal para extraer los elementos de acción clave es una tarea que requiere mucho tiempo. Copilot para Teams revoluciona este proceso mediante el análisis inteligente de conversaciones y la generación de una lista concisa de elementos de acción.
 
@@ -6,7 +6,7 @@ Los ejecutivos o líderes que aprovechan esta capacidad no solo ahorran un tiemp
 
 ### Ejercicio
 
-Al usar Copilot en Teams para examinar los detalles de un chat o canal específico, Copilot puede proporcionar una lista de indicaciones predefinidas y de uso común entre las que elegir. Elegir una indicación de esta lista le evita tener que escribirla manualmente. También proporciona sugerencias sobre otros mensajes que puede usar al trabajar en un chat o canal.
+Cuando se usa Microsoft 365 Copilot en Teams para examinar los detalles de un chat o canal específico, Copilot puede proporcionar una lista de solicitudes predefinidas y de uso común entre las que elegir. Elegir una indicación de esta lista le evita tener que escribirla manualmente. También proporciona sugerencias sobre otros mensajes que puede usar al trabajar en un chat o canal.
 
 En el panel de **Copilot**, cuando selecciona la opción **Más indicaciones**, Copilot muestra un menú desplegable que contiene las indicaciones predefinidas. Hay dos tipos de indicaciones predefinidas disponibles:
 
@@ -23,17 +23,17 @@ En el panel de **Copilot**, cuando selecciona la opción **Más indicaciones**, 
 
 > **IMPORTANTE:** Las indicaciones predefinidas que muestra Copilot pueden variar en función del contenido que esté disponible en el chat o canal seleccionado.
 
-Copilot en Teams usa las siguientes directrices para determinar qué indicaciones se mostrarán para un chat o canal determinado:
+Microsoft 365 Copilot en Teams usa las siguientes directrices para determinar qué solicitudes mostrar en un chat o canal determinado:
 
- -  Copilot incluye la indicación "Resumir la reunión" durante 24 horas después de que la transcripción de una reunión esté disponible en el chat.
+ -  Microsoft 365 Copilot incluye la solicitud "Resumir la reunión" durante 24 horas después de que la transcripción de una reunión esté disponible en el chat.
  -  Copilot solo incluye las indicaciones vinculadas al tiempo ("Contenidos destacados del pasado...") y las indicaciones no vinculadas al tiempo ("Decisiones/elementos abiertos") si hay suficiente contenido en ese período temporal como para justificarlas.
  -  Copilot no muestra ninguna indicación para un chat si no hay suficiente contenido en el último día. En este caso, Copilot muestra el siguiente mensaje cuando selecciona **Más indicaciones**: *Podrá usar indicaciones cuando haya nuevo contenido en el chat. Mientras tanto, Copilot podrá seguir respondiendo a sus preguntas.*
 
 > **NOTA:** Si un chat o canal no tiene suficiente contenido para garantizar el uso de Copilot, el icono de Copilot no aparecerá al seleccionar el chat o el canal.
 
-#### Usar Copilot en un chat de Teams
+#### Uso de Microsoft 365 Copilot en un chat de Teams
 
-Como ejecutivo o líder de tu organización, quieres usar Copilot en el chat y los canales de Microsoft Teams para ayudarte a ponerte al día rápidamente en las conversaciones. En este ejercicio, quiere que Copilot resuma los puntos clave de los últimos 30 días para un chat específico. Use una de las indicaciones predefinidas de Copilot para solicitar esta información. A partir de ahí, escriba una serie de indicaciones para profundizar en los resultados.
+Como ejecutivo o líder de tu organización, quieres usar Microsoft 365 Copilot en el chat y los canales de Microsoft Teams para ayudarte a ponerte al día rápidamente sobre las conversaciones. En este ejercicio, quiere que Copilot resuma los puntos clave de los últimos 30 días para un chat específico. Use una de las indicaciones predefinidas de Copilot para solicitar esta información. A partir de ahí, escriba una serie de indicaciones para profundizar en los resultados.
 
 1.  Seleccione **Chat** en la barra de navegación situada a la izquierda de **Teams**, y después seleccione un chat que le interese específicamente. Para esta primera tarea, seleccione un chat que sepa que se extiende a lo largo de varios días, quizás un chat de una reunión recurrente.
 
@@ -48,7 +48,7 @@ Como ejecutivo o líder de tu organización, quieres usar Copilot en el chat y l
     
     **Resumir este chat**.
 
-4.  En la respuesta de Copilot, observe cómo Copilot incluye un número al pie al final de cada instrucción. Cada nota al pie proporciona un vínculo directo a la instrucción resaltada. Seleccione una de las notas al pie para un elemento resaltado. Al hacerlo, observe cómo Copilot se desplaza directamente a ese mensaje en la conversación de chat. Esta característica le habilita para navegar rápidamente a un contenido destacado específico sin tener que desplazarse manualmente por la conversación buscándolo. Repita este paso para un par de elementos resaltados para ver lo valiosa que es esta característica.
+4.  En la respuesta de Copilot, observa cómo Microsoft 365 Copilot incluye un número a pie de página al final de cada instrucción. Cada nota al pie proporciona un vínculo directo a la instrucción resaltada. Seleccione una de las notas al pie para un elemento resaltado. Al hacerlo, observe cómo Copilot se desplaza directamente a ese mensaje en la conversación de chat. Esta característica le habilita para navegar rápidamente a un contenido destacado específico sin tener que desplazarse manualmente por la conversación buscándolo. Repita este paso para un par de elementos resaltados para ver lo valiosa que es esta característica.
 
 5.  Es posible que a menudo se interese por lo que ha dicho una determinada persona en una conversación de chat. Escriba la siguiente indicación (sustituya "nombre de la persona" por el nombre de la persona) y seleccione el icono **Enviar**:
     
@@ -66,7 +66,7 @@ Como ejecutivo o líder de tu organización, quieres usar Copilot en el chat y l
 
 11. Revise las decisiones que se tomaron. Seleccione una nota al pie de un elemento determinado para desplazarse directamente a ese elemento abierto.
 
-12. Ahora quiere usar Copilot en el chat de Microsoft Teams para ayudarle a ponerse al día rápidamente en una conversación determinada. Para ello, planea usar una de las indicaciones predefinidas de Copilot para hacer un resumen de la reunión. Con esa información a mano, planea escribir una serie de indicaciones para profundizar en los resultados. Para empezar, busque una conversación de chat concreta que le interese y después selecciónela para abrirla.
+12. Ahora quieres usar Microsoft 365 Copilot en el chat de Microsoft Teams para que te ayude a ponerte al día rápidamente sobre una conversación determinada. Para ello, planea usar una de las indicaciones predefinidas de Copilot para hacer un resumen de la reunión. Con esa información a mano, planea escribir una serie de indicaciones para profundizar en los resultados. Para empezar, busque una conversación de chat concreta que le interese y después selecciónela para abrirla.
 
 13. Con la conversación de chat abierta, seleccione el icono **Abrir Copilot** en la esquina superior derecha de la conversación.
 
@@ -80,14 +80,14 @@ Como ejecutivo o líder de tu organización, quieres usar Copilot en el chat y l
 
 17. Compare los resultados que obtuvo de la indicación predefinida **Resumir la reunión** con los resultados de la indicación no predefinida **Recapitulación de la reunión**. Observe las diferencias generadas en cada respuesta.
 
-18. En el chat anterior en el que trabajó, seleccionó las indicaciones predefinidas que preguntaban a Copilot en Teams **"¿Qué decisiones se tomaron?"** y **"¿Cuáles son los elementos abiertos?"** En lugar de volver a solicitar esas mismas indicaciones predefinidas, probemos algo diferente. Esta vez, escriba el siguiente mensaje y seleccione el icono **Enviar**:
+18. En el chat en el que has trabajado anteriormente, has seleccionado las indicaciones predefinidas que preguntaban a Microsoft 365 Copilot en Teams **"¿Qué decisiones se tomaron?"** y **"¿Cuáles son los elementos abiertos?"** En lugar de volver a solicitar esas mismas indicaciones predefinidas, probemos algo diferente. Esta vez, escriba el siguiente mensaje y seleccione el icono **Enviar**:
     
 **¿Alguien parecía molesto en la reunión?**
 19. Anote la respuesta de Copilot. Tenga presente esta respuesta cuando escriba indicaciones en el futuro. Como herramienta de IA, las capacidades de Copilot tienen ciertas limitaciones.
 
-#### Usar Copilot en un canal de Teams
+#### Uso de Microsoft 365 Copilot en un canal de Teams
 
-Copilot en un canal de Teams funciona de forma similar a Copilot en un chat de Teams.
+Microsoft 365 Copilot en un canal de Teams funciona de forma similar a Microsoft 365 Copilot en un chat de Teams.
 
 1.  Seleccione **Teams** en la barra de navegación del lado izquierdo de **Teams ** y, a continuación, seleccione un canal específico dentro de un equipo.
 
