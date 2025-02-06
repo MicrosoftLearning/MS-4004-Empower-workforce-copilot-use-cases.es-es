@@ -1,23 +1,23 @@
-#  Analizar una hoja de cálculo financiera con Copilot en Excel
+#  Análisis de una hoja de cálculo financiera con Microsoft 365 Copilot en Excel
 ---
-Para profesionales de las finanzas, Copilot en Excel ofrece numerosas ventajas, como la capacidad de formular preguntas sobre su conjunto de datos en lenguaje natural en lugar de usar fórmulas. La herramienta puede revelar correlaciones, sugerir escenarios hipotéticos y crear visualizaciones eficaces basadas en sus consultas. Por ejemplo, puede usar Copilot en Excel para desglosar los datos de ventas por tipo y canal. O bien puede proyectar el impacto de un cambio de variable en los datos y, a continuación, generar un gráfico para ayudarle a visualizarlo. También puede modelar cómo un cambio en la tasa de crecimiento de una variable afectaría al margen bruto.
+Para los profesionales financieros, Microsoft 365 Copilot en Excel ofrece numerosas ventajas, como la capacidad de formular preguntas sobre tu conjunto de datos en lenguaje natural en lugar de usar fórmulas. La herramienta puede revelar correlaciones, sugerir escenarios hipotéticos y crear visualizaciones eficaces basadas en sus consultas. Por ejemplo, puedes usar Microsoft 365 Copilot en Excel para desglosar los datos de ventas por tipo y canal. O bien puede proyectar el impacto de un cambio de variable en los datos y, a continuación, generar un gráfico para ayudarle a visualizarlo. También puede modelar cómo un cambio en la tasa de crecimiento de una variable afectaría al margen bruto.
 
-La conclusión es que mediante la automatización de tareas repetitivas, Copilot en Excel hace posibles enfoques más creativos e innovadores dentro de la plantilla, acelerando el progreso en varias líneas de negocio. Es una valiosa herramienta para los profesionales de las finanzas que quieren simplificar sus procesos diarios y tomar decisiones mejor fundadas.
+La conclusión es que al automatizar las tareas repetitivas, Microsoft 365 Copilot en Excel hace posibles enfoques más creativos e innovadores dentro de la plantilla, lo que acelera el progreso en varias líneas de negocio. Es una valiosa herramienta para los profesionales de las finanzas que quieren simplificar sus procesos diarios y tomar decisiones mejor fundadas.
 
-Al usar Copilot en Excel, debe tener una tabla de Excel que incluya datos en una hoja de cálculo. Puede convertir rápidamente un rango de celdas en una tabla de Excel siguiendo estos pasos:
+Al usar Microsoft 365 Copilot en Excel, debes tener una tabla de Excel que incluya datos en una hoja de cálculo. Puede convertir rápidamente un rango de celdas en una tabla de Excel siguiendo estos pasos:
 
 1.  Seleccione la celda o el rango en los datos.
 2.  Seleccione **Inicio &gt; Dar formato como tabla**.
 3.  En el cuadro de diálogo **Dar formato como tabla**, active la casilla junto a **Mi tabla tiene encabezados** si desea que la primera fila del rango sea la fila de encabezado.
 4.  Seleccione **Aceptar**.
 
-En este ejercicio usará Copilot en Excel para analizar una hoja de cálculo de tendencias de mercado que ya está en una tabla de Excel. En este ejercicio se examinan muchas de las funciones e indicaciones precompiladas de Copilot.
+En este ejercicio, usarás Microsoft 365 Copilot en Excel para analizar una hoja de cálculo de tendencias de mercado que ya está en una tabla de Excel. En este ejercicio se examinan muchas de las funciones e indicaciones precompiladas de Copilot.
 
 ### Ejercicio
 
 Como director de Finanzas de Fabrikam, quiere analizar la eficacia de las campañas de marketing Q1 de la empresa. Su director de Marketing le proporcionó una hoja de cálculo que identifica cada una de las campañas de marketing que hizo la empresa durante el primer trimestre. La hoja de cálculo proporciona cifras básicas de presupuesto e ingresos y el número de usuarios dirigidos y comprometidos. Ahora es su trabajo analizar los números para determinar la eficacia de cada tipo de campaña.
 
-Realice los pasos siguientes para usar Copilot en Excel y analizar los datos que aparecen en la hoja de cálculo de campañas de marketing de Q1:
+Realiza los siguientes pasos para usar Microsoft 365 Copilot en Excel para analizar los datos que aparecen en la hoja de cálculo de las campañas de marketing del primer trimestre:
 
 1.  Seleccione el siguiente vínculo para descargar la hoja de cálculo [Fabrikam Q1 marketing campaigns](https://go.microsoft.com/fwlink/?linkid=2269124).
 2.  Una vez completada la descarga, mueva el archivo a su cuenta de OneDrive y, a continuación, abra y cierre el archivo para obtenerlo en la lista de archivos usados más recientemente (MRU).
@@ -39,7 +39,7 @@ Realice los pasos siguientes para usar Copilot en Excel y analizar los datos que
     
     **Calcule los ingresos totales generados por cada tipo de campaña**.
 12. Revise el gráfico que creó Copilot mostrando los ingresos por tipo de campaña. Este resultado es lo que quería, así que seleccione el botón **+Agregar a una nueva hoja** en la parte inferior de la ventana. Al hacerlo, se agrega este gráfico a la **hoja 3** de esta hoja de cálculo.
-13. Al examinar la **hoja 3**, observa que Copilot incluyó la tabla dinámica junto con el gráfico. Se da cuenta de que la **hoja 2** tiene la misma tabla dinámica, mientras que la **hoja 3** tiene la tabla y el gráfico. Puesto que quiere que la **hoja 3** tenga la tabla y el gráfico, decide quitar la **hoja 2** para evitar cualquier confusión futura. Para eliminar la **hoja 2**, haga clic con el botón derecho en ella, seleccione **Eliminar** en el menú que aparece y, a continuación, seleccione **Aceptar** para confirmar la eliminación. De esta forma, se quedará con las hojas 1 y 3.
+13. Al examinar la **Hoja 3**, observas cómo Microsoft 365 Copilot ha incluido la tabla dinámica junto con el gráfico. Se da cuenta de que la **hoja 2** tiene la misma tabla dinámica, mientras que la **hoja 3** tiene la tabla y el gráfico. Puesto que quiere que la **hoja 3** tenga la tabla y el gráfico, decide quitar la **hoja 2** para evitar cualquier confusión futura. Para eliminar la **hoja 2**, haga clic con el botón derecho en ella, seleccione **Eliminar** en el menú que aparece y, a continuación, seleccione **Aceptar** para confirmar la eliminación. De esta forma, se quedará con las hojas 1 y 3.
 14. Ya que quiere hacer más cambios, seleccione **Hoja 1** para volver a la hoja que tiene la tabla dinámica.
 15. Ahora quiere identificar qué campañas eran las más eficaces. Para ello, quiere que Copilot calcule la rentabilidad de la inversión (ROI) de cada campaña. Para calcular el ROI, escriba la siguiente indicación:
     
@@ -55,7 +55,7 @@ Realice los pasos siguientes para usar Copilot en Excel y analizar los datos que
 20. Consulte los resultados. Copilot creó un gráfico de barras de **usuarios comprometidos por nombre de campaña**. Sin embargo, si Copilot se limita a resumir el total de usuarios comprometidos por campaña, eso no es exactamente lo que quería. Para corregir este resultado, escriba la siguiente indicación:
     
     **Ese tipo de gráfico no es lo que estaba buscando. Cree un gráfico que muestre la relación entre el total de usuarios dirigidos y el total de usuarios comprometidos**.
-21. Consulte los resultados. En nuestras pruebas, Copilot indicó que no pudo crear ningún gráfico de dispersión con estos datos. Sin embargo, explicó la tabla dinámica que creó. Cree que el resultado es lo suficientemente bueno por ahora, así que debe seleccionar el botón **+Agregar a una nueva hoja** en la parte inferior de la ventana de la tabla dinámica. Al hacerlo, se agrega esta tabla a la **hoja 4** de esta hoja de cálculo. Cuando haya terminado de revisar estos datos, seleccione **Hoja 1**.
+21. Consulte los resultados. En nuestras pruebas, Microsoft 365 Copilot ha indicado que no pudo crear ningún gráfico de dispersión con estos datos. Sin embargo, explicó la tabla dinámica que creó. Cree que el resultado es lo suficientemente bueno por ahora, así que debe seleccionar el botón **+Agregar a una nueva hoja** en la parte inferior de la ventana de la tabla dinámica. Al hacerlo, se agrega esta tabla a la **hoja 4** de esta hoja de cálculo. Cuando haya terminado de revisar estos datos, seleccione **Hoja 1**.
 22. Tiene un último dato que quiere que Copilot le proporcione. Quiere que Copilot identifique las campañas con mayor rendimiento en función de los ingresos generados. A continuación, puede usar esta información para identificar qué campañas son más rentables. Escriba lo siguiente:
     
     **Identifique las campañas con mayor rendimiento en función de los ingresos generados**.
@@ -67,4 +67,4 @@ Realice los pasos siguientes para usar Copilot en Excel y analizar los datos que
 28. Consulte los resultados. Si este gráfico le interesa, seleccione el botón **+Agregar a una hoja nueva** y, a continuación, vuelva a la **hoja 1**.
 29. A continuación, seleccione el botón **¿Puedo ver otra conclusión?**. De nuevo, si este gráfico le interesa, seleccione el botón **+Agregar a una hoja nueva** y, a continuación, vuelva a la **hoja 1**.
 30. Después de ver estos dos primeros gráficos, se da cuenta de que le gustan los distintos gráficos que proporciona Copilot. En lugar de examinar más gráficos uno por uno, quiere que Copilot agregue a la hoja de cálculo todas las conclusiones que pueda crear a partir de los datos. En las indicaciones predefinidas, seleccione la indicación **Agregar todas las conclusiones a la cuadrícula**.
-31. Consulte los resultados. Copilot creó varios gráficos en la hoja final, junto con varias tablas dinámicas. Determina que el análisis se ha completado teniendo en cuenta todos los datos proporcionados por Copilot en Excel. Como Excel guardó automáticamente el archivo, cierre la pestaña del explorador Microsoft Edge.
+31. Consulte los resultados. Copilot creó varios gráficos en la hoja final, junto con varias tablas dinámicas. Determinas que tu análisis está completo teniendo en cuenta todos los datos proporcionados por Microsoft 365 Copilot en Excel. Como Excel guardó automáticamente el archivo, cierre la pestaña del explorador Microsoft Edge.

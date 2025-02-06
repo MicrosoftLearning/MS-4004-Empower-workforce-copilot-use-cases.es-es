@@ -1,19 +1,19 @@
 
-# Crear una presentación con diapositivas mediante Copilot en PowerPoint
+# Creación de una presentación con diapositivas con Microsoft 365 Copilot en PowerPoint
 ---
 El dominio del uso de Copilot para PowerPoint es una aptitud estratégica para los ejecutivos y líderes que pretendan mejorar el impacto de sus presentaciones. Como líder, la comunicación eficaz a través de presentaciones de diapositivas convincentes es primordial. Copilot para PowerPoint actúa como un colaborador inteligente que te ofrece sugerencias y mejoras en tiempo real mientras elaboras tus presentaciones. Esta herramienta no solo acelera el proceso de creación, sino que también asegura que el contenido sea atractivo, claro y que resuene con el público al que va dirigido.
 
 Convertirte en experto en Copilot para PowerPoint te proporciona una ventaja competitiva al refinar sin esfuerzo tu mensajería, mejorar el atractivo visual y mantener un estándar profesional. Esta habilidad no solo te ahorra tiempo, sino que te permite entregar presentaciones que dejan una impresión duradera, fomentan la comunicación eficaz y refuerzan la influencia de liderazgo.
 
-Con Copilot en PowerPoint, puede crear una presentación a partir de un documento de Word existente. Cuando proporciona a Copilot en PowerPoint el vínculo a su documento de Word, es capaz de generar diapositivas, aplicar diseños y elegir un tema por usted.
+Con Microsoft 365 Copilot en PowerPoint, puedes crear una presentación a partir de un documento de Word existente. Cuando proporcionas a Microsoft 365 Copilot en PowerPoint el vínculo a tu documento de Word, es capaz de generar diapositivas, aplicar diseños y elegir un tema por ti.
 
 ### Ejercicio
 
 Como director de tecnología de tu organización, te reúnes la próxima semana con los otros líderes de tu organización para proporcionar una presentación sobre el estado de tus esfuerzos de transformación digital dentro de tu organización. Tu asistente te ha proporcionado un resumen del progreso y el impacto que ha tenido el proyecto hasta ahora.
 
-En el ejercicio anterior, has usado Copilot en Word para escribir tu discurso basándote en la información del informe de progreso. En este ejercicio usará Copilot en PowerPoint para crear una presentación con diapositivas a partir del discurso. Para ello, debes comenzar copiando el enlace al archivo **Digital Transformation Speech.docx** que creaste en el ejercicio anterior.
+En el ejercicio anterior, has usado Microsoft 365 Copilot en Word para escribir tu discurso basándote en la información del informe de progreso. En este ejercicio, planeas usar Microsoft 365 Copilot en PowerPoint para crear una presentación de diapositivas basada en tu discurso. Para ello, debes comenzar copiando el enlace al archivo **Digital Transformation Speech.docx** que creaste en el ejercicio anterior.
 
-En el ejercicio anterior, accediste al resumen en Copilot accediendo al archivo desde la lista de archivos utilizados recientemente (MRU). En este ejercicio obtendrá experiencia en el acceso a un archivo mediante un proceso diferente. En lugar de usar la lista de MRU, tiene previsto acceder al discurso copiando su ruta de acceso de archivo en Copilot a través de la opción **Compartir** de Word. Realice los pasos siguientes para que Copilot en PowerPoint cree un borrador de la presentación:
+En el ejercicio anterior, accediste al resumen en Copilot accediendo al archivo desde la lista de archivos utilizados recientemente (MRU). En este ejercicio obtendrá experiencia en el acceso a un archivo mediante un proceso diferente. En lugar de usar la lista de MRU, tiene previsto acceder al discurso copiando su ruta de acceso de archivo en Copilot a través de la opción **Compartir** de Word. Realiza los siguientes pasos para que Microsoft 365 Copilot en PowerPoint cree un borrador de tu presentación:
 
 1.  Si tienes una pestaña de Microsoft 365 abierta en tu explorador Edge, selecciónala ahora; de lo contrario, abre una nueva pestaña y escribe la siguiente URL: **https://www.office.com**.
 
@@ -44,7 +44,7 @@ En el ejercicio anterior, accediste al resumen en Copilot accediendo al archivo 
     
     En el campo del símbolo del sistema, Copilot escribe automáticamente en **Crear presentación a partir del archivo /**. Coloque el cursor después de la barra diagonal y escriba **Ctrl+V** para pegar el vínculo a este documento en el símbolo del sistema.
     
-    ![Captura de pantalla que muestra el campo del símbolo del sistema de Copilot en PowerPoint con la solicitud Crear presentación a partir del archivo y el vínculo al archivo.](../media/copilot-ppt-prompt-with-file-link-690f74ed.png)
+    ![Captura de pantalla que muestra el campo de la solicitud de Microsoft 365 Copilot en PowerPoint con la solicitud Crear presentación a partir del archivo y el vínculo al archivo.](../media/copilot-ppt-prompt-with-file-link-690f74ed.png)
     
 12. Seleccione el icono **Enviar**.
 
@@ -64,6 +64,6 @@ En el ejercicio anterior, accediste al resumen en Copilot accediendo al archivo 
     
     **Agregue una nueva diapositiva después de la diapositiva 1. Esta diapositiva debe tener la imagen de un pico de montaña en los Alpes. Hacia la parte inferior de la diapositiva, agregue un cuadro de texto que diga: Lema de la empresa Fabrikam: "Superamos todos los obstáculos". Agregue notas del orador a esta nueva diapositiva que hablen de cómo Fabrikam trabaja diligentemente para resolver las peticiones de cada cliente, sin dejar nunca que ningún obstáculo se interponga en su camino hacia el éxito**.
 
-18. Revise la nueva diapositiva que se creó. ¿Qué éxito tuvo Copilot al crear esta diapositiva?
+18. Revise la nueva diapositiva que se creó. ¿Qué éxito tuvo Microsoft 365 Copilot al crear esta diapositiva?
 
 19. Aunque en el resto de los ejercicios de formación de este módulo no se usa esta presentación, puede descartarla o guardarla si lo desea para futuras consultas.
